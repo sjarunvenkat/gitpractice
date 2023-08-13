@@ -4,4 +4,10 @@ cd <dir>   //the cloned directory
 git status //will show it as untracked
 git add    //file will be added to the staging area
 git commit -m "<any message to be said(we use -m to do show)>"
+git push origin main
+
+INSERT FILE -> ADD -> COMMIT -> PUSH 
+
+
+
 
